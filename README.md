@@ -31,7 +31,7 @@ This project consists of two applications:
 
 1. Clone the repository:
    ```
-   git clone [repository-url]
+   git clone https://github.com/thesyntaxdiaries/micro-frontends.git
    cd micro-frontends-webpack5
    ```
 
